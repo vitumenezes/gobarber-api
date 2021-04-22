@@ -5,7 +5,7 @@ import GlobaStyle from './styles/global';
 
 const App: React.FC = () => (
   <>
-    <SignUp />
+    <SignIn />
     <GlobaStyle />
   </>
 );
